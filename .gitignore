@@ -1,0 +1,4 @@
+.gocache/
+.gomodcache/
+.vscode/
+node_modules/
